@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 - osTicket 
 
 
-<h2>Good Things to Know</h2>
+<h2>Things to Know</h2>
 
  - Links provided for better understanding of each topic
  	- [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
