@@ -222,5 +222,5 @@ This tutorial outlines the post-install configuration of the open-source helpdes
 <p align="center"><b><i>You have configured osTicket</b></i></p>
 <p align="center"><b><i>“Congratulations, this concludes this lab."</p></b></i>
 <br />
-<p align="right"> Next up, <a href="https://github.com/natefelder/ticket-lifecycle"
+<p align="right"> Next up, <a href="https://github.com/natefelder/ticket-lifestyle"
 >Ticket Lifecycle </a></p>
